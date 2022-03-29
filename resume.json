@@ -4,19 +4,23 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "name": "杨子",
+    "email": "yz186337163.com",
+    "mobile": "15862533995",
+    "github": "https://github.com/yzy98",
+    "positionTitle": "前端工程师"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2019.07.26", "2021.12.15"],
+      "school": "昆士兰大学",
+      "major": "信息技术",
+      "academic_degree": "硕士研究生"
+    },
+    {
+      "edu_time": ["2013.07.01", "2017.06.30"],
+      "school": "苏州大学",
+      "major": "化学",
       "academic_degree": "本科"
     }
   ],
